@@ -28,13 +28,13 @@ The following people, listed in chronological order, were involved in the
 development:
 
 * Benjamin Koster
-    Twitter crawler
+    - Twitter crawler
 * Gregor Semmler ([GitHub](https://github.com/gregorsemmler))
-    Facebook crawler
+    - Facebook crawler
 * Felix Sonntag
-    extraction of the text body of websites mentioned in tweets
+    - extraction of the text body of websites mentioned in tweets
 * Jan Hauffa
-    LiveJournal crawler, e-mail processing, overall maintenance
+    - LiveJournal crawler, e-mail processing, overall maintenance
 
 ## Publications
 
